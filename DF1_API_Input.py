@@ -11,6 +11,7 @@ def process_data(url):
   parameters: url (string): The URL of the webpage to scrape the Billboard Hot 100 data from.
   Returns: A csv dataframe containing the extracted data called DF1 or None if
   an error occurs during the scraping process.
+  
   '''
   #list to store the number the song was on the billboard
   Position_on_chart=[]
