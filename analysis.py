@@ -17,7 +17,7 @@ Outputs:
 - Bar graph saved as 'average_height_by_team.png'
 '''
 
-#Loading each CSV from scrapped data
+#Loading each CSV from scraped data
 men_swim = pd.read_csv("data/mens_swimming_diving.csv")
 women_swim = pd.read_csv("data/womens_swimming_diving.csv")
 men_volley = pd.read_csv("data/mens_volleyball.csv")
@@ -34,7 +34,7 @@ print(f'Mens Swimming and Diving: general statistics:')
 print(men_swim.describe())
 
 #Womens Swimming and Divng general statistics
-print(f'Womens Swimming and Divng: general statistics:')
+print(f'Womens Swimming and Diving: general statistics:')
 print(women_swim.describe())
 
 #Mens Volleyball general statistics 
@@ -71,7 +71,7 @@ plt.ylabel('Height (inches)')
 plt.xticks(rotation=45)
 plt.tight_layout()
 
-# Save and show the graph
+#Saving and showing the graph
 plt.savefig('average_height_by_team.png')
 plt.show()
 
@@ -87,7 +87,7 @@ fifth_shortest = bottom_heights[-1]
 print(f'Five shortest Mens Swimmers & Divers:')
 print(men_swim[men_swim['Height'] <= fifth_shortest])
 
-#Woments swimming and diving team: five tallest heights
+#Womens swimming and diving team: five tallest heights
 top_heights = women_swim['Height'].nlargest(5).unique()
 fifth_height = top_heights[-1]
 print(f'Five Tallest Womens Swimmers & Divers:')
@@ -111,7 +111,7 @@ fifth_shortest = bottom_heights[-1]
 print(f'Five Shortest Mens Volleyball Players:')
 print(men_volley[men_volley['Height'] <= fifth_shortest])
 
-# Womens volleyball: five tallest heights 
+#Womens volleyball: five tallest heights 
 top_heights = women_volley['Height'].nlargest(5).unique()
 fifth_height = top_heights[-1]
 print(f'Five Tallest Womens Volleyball Players:')
