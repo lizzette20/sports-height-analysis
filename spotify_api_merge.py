@@ -3,10 +3,16 @@ import base64 #this library is used to encode our spotify cilent credentials
 import json
 import pandas as pd 
 from urllib.parse import quote
+import time
+import os
+from dotenv import load_dotenv
+
+#Loading the .env file
+load_dotenv()
 
 #Spotify client credentials (required to authorize API access)
-client_id = 'c4edcf1c104a42578afc2347bb8896c8'
-client_secret = 'fe74831ff9a543de811f9112ba9a9128'
+client_id = os.getenv("SPOTIFY_CLIENT_ID")
+client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
 
 #Encoded client credentials in Base64 as required by Spotify
 client_credentials = f"{client_id}:{client_secret}"
@@ -60,7 +66,7 @@ for x in range(len(df1)):
 
     #Providing our access token for authentication
     headers = {
-    'Authorization': 'Bearer BQDZP3KHIUX_gs8_5RlNUECDVIKxpTUfBzPI75yqpgiks28bS4iqeVzAkBKUMyBtwcj1v246WHzvEoL93O3YOG9yIvkZkTrYqVjZHQW-YL5ShksrPmt5tSeM5ma1QghWHxVtrzVuaPI'
+    'Authorization': f'Bearer {access_token}'
     }
 
     #Send GET request to Spotify API
@@ -84,6 +90,7 @@ for x in range(len(df1)):
         album_name = track['album']['name']
         popularity = track['popularity']
         spotify_url = track['external_urls']['spotify']
+        track_id = track['id']
 
         # Optional (for debugging or reviewing as the loop runs):
         # print(f'Track name: {track_name}')
@@ -91,6 +98,32 @@ for x in range(len(df1)):
         # print(f'Album name: {album_name}')
         # print(f'Popularity ranking: #{popularity}')
         # print(f'Spotify URL: {spotify_url}')  
+        print(f"[{x}] Retrieved track ID: {track_id} for '{track_name}'")
+
+        # Requesting audio features for this track
+        audio_url = f'https://api.spotify.com/v1/audio-features/{track_id}'
+    
+        try:
+            audio_response = requests.get(audio_url, headers=headers)
+
+            if audio_response.status_code == 200:
+                audio_data = audio_response.json()
+                print(json.dumps(audio_data, indent=2))
+                danceability = audio_data.get('danceability')
+                energy = audio_data.get('energy')
+                tempo = audio_data.get('tempo')
+                valence = audio_data.get('valence')
+                speechiness = audio_data.get('speechiness')
+            else: 
+            #Default to None if audio features can't be fetches
+                print(f"Audio features error {audio_response.status_code} for: {track_name}")
+                danceability = energy = tempo = valence = speechiness = None
+        except requests.exceptions.RequestException as e:
+            print(f"Network error retrieving audio features for: {track_name} — {e}")
+            danceability = energy = tempo = valence = speechiness = None
+            
+        #print(f"Adding features: danceability={danceability}, energy={energy}, tempo={tempo}")
+        time.sleep(0.2)
 
         #Append extracted data to our list as a dictionary
         spotify_data.append({
@@ -98,7 +131,12 @@ for x in range(len(df1)):
             'Spotify Artist': artist_name,
             'Album': album_name,
             'Popularity ranking #': popularity,
-            'Spotify URL': spotify_url
+            'Spotify URL': spotify_url,
+            'Danceability': danceability,
+            'Energy': energy,
+            'Tempo (BPM)': tempo,
+            'Valence': valence,
+            'Speechiness': speechiness
 
         })
 
