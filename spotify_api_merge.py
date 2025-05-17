@@ -7,6 +7,20 @@ import time
 import os
 from dotenv import load_dotenv
 
+'''
+Purpose:
+    This program loads a Billboard Year-End Hot 100 CSV, uses the Spotify API to search for 
+    each song, and retrieves data such as track name, artist, album, popularity, 
+    and Spotify URL. It merges the Spotify data with the Billboard data and 
+    exports the combined dataset as a CSV.
+
+    Outputs:
+    - Billboard_Spotify_Merged.csv containing Billboard + Spotify song info
+
+    Requirements:
+    - Python packages: requests, pandas, python-dotenv
+    - A valid Spotify Developer account and client credentials
+'''
 #Loading the .env file
 load_dotenv()
 
@@ -100,44 +114,13 @@ for x in range(len(df1)):
         # print(f'Spotify URL: {spotify_url}')  
         print(f"[{x}] Retrieved track ID: {track_id} for '{track_name}'")
 
-        # Requesting audio features for this track
-        audio_url = f'https://api.spotify.com/v1/audio-features/{track_id}'
-    
-        try:
-            audio_response = requests.get(audio_url, headers=headers)
-
-            if audio_response.status_code == 200:
-                audio_data = audio_response.json()
-                print(json.dumps(audio_data, indent=2))
-                danceability = audio_data.get('danceability')
-                energy = audio_data.get('energy')
-                tempo = audio_data.get('tempo')
-                valence = audio_data.get('valence')
-                speechiness = audio_data.get('speechiness')
-            else: 
-            #Default to None if audio features can't be fetches
-                print(f"Audio features error {audio_response.status_code} for: {track_name}")
-                danceability = energy = tempo = valence = speechiness = None
-        except requests.exceptions.RequestException as e:
-            print(f"Network error retrieving audio features for: {track_name} — {e}")
-            danceability = energy = tempo = valence = speechiness = None
-            
-        #print(f"Adding features: danceability={danceability}, energy={energy}, tempo={tempo}")
-        time.sleep(0.2)
-
         #Append extracted data to our list as a dictionary
         spotify_data.append({
             'Track name': track_name,
             'Spotify Artist': artist_name,
             'Album': album_name,
             'Popularity ranking #': popularity,
-            'Spotify URL': spotify_url,
-            'Danceability': danceability,
-            'Energy': energy,
-            'Tempo (BPM)': tempo,
-            'Valence': valence,
-            'Speechiness': speechiness
-
+            'Spotify URL': spotify_url
         })
 
     else: 
@@ -170,5 +153,5 @@ print("CSV file exported as 'Billboard_Spotify_Merged.csv'")
 print(df3.head()) #Preview first few rows of merged data
 print(df3.describe(include='all')) #Displaying summary statistics
 
-#Optional: reloading the CSV to confirm final export worked
+#Reloading the CSV to confirm final export worked
 df = pd.read_csv('Billboard_Spotify_Merged.csv')

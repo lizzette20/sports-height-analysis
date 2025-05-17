@@ -1,101 +1,101 @@
-Position on chart,Title,Billboard Artist,Track name,Spotify Artist,Album,Popularity ranking #,Spotify URL,Danceability,Energy,Tempo (BPM),Valence,Speechiness
-1,"""Last Night""",Morgan Wallen,Last Night,Morgan Wallen,One Thing At A Time,83,https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn,,,,,
-2,"""Flowers""",Miley Cyrus,Flowers,Miley Cyrus,Endless Summer Vacation,89,https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0,,,,,
-3,"""Kill Bill""",SZA,Kill Bill,SZA,SOS,85,https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL,,,,,
-4,"""Anti-Hero""",Taylor Swift,Anti-Hero,Taylor Swift,Midnights,84,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu,,,,,
-5,"""Creepin'""","Metro Boomin, the Weeknd and 21 Savage",Creepin' (with The Weeknd & 21 Savage),Metro Boomin,HEROES & VILLAINS,84,https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO,,,,,
-6,"""Calm Down""",Rema and Selena Gomez,Calm Down (with Selena Gomez),Rema,Calm Down (with Selena Gomez),83,https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8,,,,,
-7,"""Die for You""",The Weeknd and Ariana Grande,Die For You,The Weeknd,Starboy,87,https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3,,,,,
-8,"""Fast Car""",Luke Combs,Fast Car,Luke Combs,Gettin' Old,85,https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT,,,,,
-9,"""Snooze""",SZA,Snooze,SZA,SOS,90,https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2,,,,,
-10,"""I'm Good (Blue)""",David Guetta and Bebe Rexha,I'm Good (Blue),David Guetta,I'm Good (Blue),88,https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK,,,,,
-11,"""Unholy""",Sam Smith and Kim Petras,Unholy (feat. Kim Petras),Sam Smith,Unholy (feat. Kim Petras),80,https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG,,,,,
-12,"""You Proof""",Morgan Wallen,You Proof,Morgan Wallen,One Thing At A Time,81,https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW,,,,,
-13,"""Something in the Orange""",Zach Bryan,Something in the Orange,Zach Bryan,Something in the Orange,87,https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI,,,,,
-14,"""Rich Flex""",Drake and 21 Savage,Rich Flex,Drake,Her Loss,78,https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N,,,,,
-15,"""As It Was""",Harry Styles,As It Was,Harry Styles,Harry's House,90,https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e,,,,,
-16,"""Rock and a Hard Place""",Bailey Zimmerman,Rock and A Hard Place,Bailey Zimmerman,Religiously. The Album.,84,https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx,,,,,
-17,"""Under the Influence""",Chris Brown,Under The Influence,Chris Brown,Indigo (Extended),85,https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb,,,,,
-18,"""Cruel Summer""",Taylor Swift,Cruel Summer,Taylor Swift,Lover,91,https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr,,,,,
-19,"""Thinkin' Bout Me""",Morgan Wallen,Thinkin’ Bout Me,Morgan Wallen,One Thing At A Time,83,https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK,,,,,
-20,"""Boy's a Liar Pt. 2""",PinkPantheress and Ice Spice,Boy's a liar Pt. 2,PinkPantheress,Boy's a liar Pt. 2,75,https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv,,,,,
-21,"""Favorite Song""",Toosii,Favorite Song,Toosii,NAUJOUR,69,https://open.spotify.com/track/5Bvhk3wx42kkDEggSQIwqL,,,,,
-22,"""Thought You Should Know""",Morgan Wallen,Thought You Should Know,Morgan Wallen,One Thing At A Time,79,https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb,,,,,
-23,"""Thank God""",Kane Brown and Katelyn Brown,Thank God,Kane Brown,Different Man,72,https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8,,,,,
-24,"""Sure Thing""",Miguel,Sure Thing,Miguel,All I Want Is You,87,https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV,,,,,
-25,"""All My Life""",Lil Durk featuring J. Cole,All My Life,Foo Fighters,One By One (Expanded Edition),75,https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6,,,,,
-26,"""Ella Baila Sola""",Eslabon Armado and Peso Pluma,Ella Baila Sola,Eslabon Armado,Ella Baila Sola,79,https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb,,,,,
-27,"""Karma""",Taylor Swift featuring Ice Spice,"""Karma""",Frank Fileccia,"""Is Everyone Going To Hell?""",0,https://open.spotify.com/track/1BfLmVSpeZyjK4mCm7gVsv,,,,,
-28,"""Just Wanna Rock""",Lil Uzi Vert,Just Wanna Rock,Lil Uzi Vert,Just Wanna Rock,74,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d,,,,,
-29,"""Cuff It""",Beyoncé,CUFF IT,Beyoncé,RENAISSANCE,79,https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS,,,,,
-30,"""Vampire""",Olivia Rodrigo,vampire,Olivia Rodrigo,GUTS,87,https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS,,,,,
-31,"""FukUMean""",Gunna,fukumean,Gunna,a Gift & a Curse,83,https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS,,,,,
-32,"""Lavender Haze""",Taylor Swift,Lavender Haze,Taylor Swift,Midnights,76,https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC,,,,,
-33,"""Players""",Coi Leray,Players,Coi Leray,Players,72,https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij,,,,,
-34,"""Need a Favor""",Jelly Roll,Need A Favor,Jelly Roll,Whitsitt Chapel,79,https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy,,,,,
-35,"""Dance the Night""",Dua Lipa,Dance The Night - From Barbie The Album,Dua Lipa,Dance The Night (From Barbie The Album),84,https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA,,,,,
-36,"""Love You Anyway""",Luke Combs,Love You Anyway,Luke Combs,Gettin' Old,74,https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz,,,,,
-37,"""One Thing at a Time""",Morgan Wallen,One Thing At A Time,Morgan Wallen,One Thing At A Time,72,https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo,,,,,
-38,"""Superhero (Heroes & Villains)""","Metro Boomin, Future and Chris Brown",Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,HEROES & VILLAINS,82,https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j,,,,,
-39,"""Bad Habit""",Steve Lacy,Bad Habit,Steve Lacy,Gemini Rights,86,https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy,,,,,
-40,"""La Bebé""",Yng Lvcas and Peso Pluma,La Bebe - Remix,Yng Lvcas,La Bebe (Remix),81,https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU,,,,,
-41,"""Golden Hour""",Jvke,golden hour,JVKE,this is what ____ feels like (Vol. 1-4),80,https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg,,,,,
-42,"""Religiously""",Bailey Zimmerman,Religiously,Bailey Zimmerman,Religiously. The Album.,80,https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R,,,,,
-43,"""Spin Bout U""",Drake and 21 Savage,Spin Bout U,Drake,Her Loss,78,https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC,,,,,
-44,"""Cupid""",Fifty Fifty,Cupid's Chokehold / Breakfast in America,Gym Class Heroes,The Papercut Chronicles,80,https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK,,,,,
-45,"""Search & Rescue""",Drake,Search & Rescue,Drake,Search & Rescue,75,https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G,,,,,
-46,"""Barbie World""",Nicki Minaj and Ice Spice with Aqua,Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj,Barbie World (with Aqua) [From Barbie The Album],73,https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO,,,,,
-47,"""Next Thing You Know""",Jordan Davis,Next Thing You Know,Jordan Davis,Bluebird Days,77,https://open.spotify.com/track/39OclE5hZematADrdfaWvE,,,,,
-48,"""Escapism""",Raye featuring 070 Shake,Escapism.,RAYE,My 21st Century Blues,82,https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp,,,,,
-49,"""Un x100to""",Grupo Frontera and Bad Bunny,un x100to,Grupo Frontera,El Comienzo,79,https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD,,,,,
-50,"""Until I Found You""",Stephen Sanchez,Until I Found You,Stephen Sanchez,Until I Found You,81,https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV,,,,,
-51,"""Shirt""",SZA,Shirt,SZA,SOS,74,https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4,,,,,
-52,"""Paint the Town Red""",Doja Cat,Paint The Town Red,Doja Cat,Paint The Town Red,81,https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7,,,,,
-53,"""Made You Look""",Meghan Trainor,Made You Look,Meghan Trainor,Takin' It Back,80,https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u,,,,,
-54,"""Wait in the Truck""",Hardy featuring Lainey Wilson,wait in the truck,HARDY,the mockingbird & THE CROW,73,https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI,,,,,
-55,"""All I Want for Christmas Is You""",Mariah Carey,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,70,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn,,,,,
-56,"""Everything I Love""",Morgan Wallen,Everything I Love,Morgan Wallen,One Thing At A Time,72,https://open.spotify.com/track/03fs6oV5JAlbytRYf3371S,,,,,
-57,"""Chemical""",Post Malone,Chemical,Post Malone,Chemical,78,https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu,,,,,
-58,"""Heart Like a Truck""",Lainey Wilson,Heart Like A Truck,Lainey Wilson,Bell Bottom Country,78,https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO,,,,,
-59,"""Going, Going, Gone""",Luke Combs,"Going, Going, Gone",Luke Combs,Growin' Up,77,https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs,,,,,
-60,"""Rockin' Around the Christmas Tree""",Brenda Lee,Rockin' Around The Christmas Tree,Brenda Lee,Merry Christmas From Brenda Lee,63,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97,,,,,
-61,"""Dancin' in the Country""",Tyler Hubbard,Dancin’ In The Country,Tyler Hubbard,Tyler Hubbard,73,https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34,,,,,
-62,"""Daylight""",David Kushner,Daylight,David Kushner,The Dichotomy,86,https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ,,,,,
-63,"""Lift Me Up""",Rihanna,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),72,https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg,,,,,
-64,"""Eyes Closed""",Ed Sheeran,Eyes Closed,Ed Sheeran,- (Deluxe),76,https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg,,,,,
-65,"""TQG""",Karol G and Shakira,TQG,KAROL G,MAÑANA SERÁ BONITO,84,https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf,,,,,
-66,"""Try That in a Small Town""",Jason Aldean,Try That In A Small Town,Jason Aldean,Highway Desperado,69,https://open.spotify.com/track/5BqI4ugJL5WaPRQ6MlC8Ho,,,,,
-67,"""Tennessee Orange""",Megan Moroney,Tennessee Orange,Megan Moroney,Lucky,81,https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ,,,,,
-68,"""Jingle Bell Rock""",Bobby Helms,Jingle Bell Rock,Bobby Helms,Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol),62,https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya,,,,,
-69,"""Princess Diana""",Ice Spice and Nicki Minaj,Princess Diana (with Nicki Minaj),Ice Spice,Princess Diana (with Nicki Minaj),70,https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV,,,,,
-70,"""Tomorrow 2""",GloRilla and Cardi B,Tomorrow 2 (with Cardi B),GloRilla,"Anyways, Life’s Great…",74,https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1,,,,,
-71,"""A Holly Jolly Christmas""",Burl Ives,A Holly Jolly Christmas,Burl Ives,Have A Holly Jolly Christmas,46,https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh,,,,,
-72,"""Where She Goes""",Bad Bunny,WHERE SHE GOES,Bad Bunny,WHERE SHE GOES,79,https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1,,,,,
-73,"""Bebe Dame""",Fuerza Regida and Grupo Frontera,Bebe Dame,Fuerza Regida,Bebe Dame,74,https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV,,,,,
-74,"""I Remember Everything""",Zach Bryan featuring Kacey Musgraves,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,Zach Bryan,88,https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG,,,,,
-75,"""I Like You (A Happier Song)""",Post Malone featuring Doja Cat,I Like You (A Happier Song) (with Doja Cat),Post Malone,Twelve Carat Toothache,79,https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj,,,,,
-76,"""What It Is (Block Boy)""",Doechii featuring Kodak Black,What It Is (Block Boy) (with Kodak Black),Doechii,What It Is (Block Boy) (with Kodak Black),69,https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE,,,,,
-77,"""Nobody Gets Me""",SZA,Nobody Gets Me,SZA,SOS,86,https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm,,,,,
-78,"""Rich Men North of Richmond""",Oliver Anthony Music,Rich Men North of Richmond,Oliver Anthony Music,Rich Men North of Richmond,76,https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP,,,,,
-79,"""Super Freaky Girl""",Nicki Minaj,Super Freaky Girl,Nicki Minaj,Super Freaky Girl,71,https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp,,,,,
-80,"""Dial Drunk""",Noah Kahan and Post Malone,Dial Drunk (with Post Malone),Noah Kahan,Dial Drunk (with Post Malone),82,https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK,,,,,
-81,"""What Was I Made For?""",Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",88,https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q,,,,,
-82,"""Seven""",Jungkook featuring Latto,Seven Nation Army,The White Stripes,Elephant,86,https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR,,,,,
-83,"""Wait for U""",Future featuring Drake and Tems,WAIT FOR U (feat. Drake & Tems),Future,I NEVER LIKED YOU,85,https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK,,,,,
-84,"""Last Christmas""",Wham!,Last Christmas,Wham!,LAST CHRISTMAS,72,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78,,,,,
-85,"""Handle on You""",Parker McCollum,Handle On You,Parker McCollum,Never Enough,73,https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C,,,,,
-86,"""Por Las Noches""",Peso Pluma,Por Las Noches,Peso Pluma,Por Las Noches,76,https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC,,,,,
-87,"""Memory Lane""",Old Dominion,Memory Lane,Old Dominion,Memory Lane,74,https://open.spotify.com/track/1nrgBXtczBXNSlqIezjwbR,,,,,
-88,"""Area Codes""",Kaliii,Area Codes,Kaliii,Area Codes,73,https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH,,,,,
-89,"""Bury Me in Georgia""",Kane Brown,Bury Me in Georgia,Kane Brown,Different Man,62,https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH,,,,,
-90,"""PRC""",Peso Pluma and Natanael Cano,PRC,Peso Pluma,PRC,73,https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl,,,,,
-91,"""What My World Spins Around""",Jordan Davis,What My World Spins Around,Jordan Davis,Bluebird Days,75,https://open.spotify.com/track/6vjZxvzdAeHp7jv3R398Xm,,,,,
-92,"""Ain't That Some""",Morgan Wallen,Ain’t That Some,Morgan Wallen,One Thing At A Time,79,https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX,,,,,
-93,"""Wild as Her""",Corey Kent,Wild as Her,Corey Kent,Blacktop,74,https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N,,,,,
-94,"""Peaches & Eggplants""",Young Nudy featuring 21 Savage,Peaches & Eggplants (feat. 21 Savage),Young Nudy,Gumbo,68,https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN,,,,,
-95,"""I Wrote the Book""",Morgan Wallen,I Wrote The Book,Morgan Wallen,One Thing At A Time,69,https://open.spotify.com/track/7phmBo7bB9I9YifAXqnlqV,,,,,
-96,"""Bzrp Music Sessions, Vol. 53""",Bizarrap and Shakira,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",80,https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe,,,,,
-97,"""Meltdown""",Travis Scott featuring Drake,MELTDOWN (feat. Drake),Travis Scott,UTOPIA,77,https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb,,,,,
-98,"""Put It on da Floor Again""",Latto featuring Cardi B,Put It On Da Floor Again (feat. Cardi B),Latto,Put It On Da Floor Again (feat. Cardi B),62,https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa,,,,,
-99,"""Bloody Mary""",Lady Gaga,Bloody Mary,Lady Gaga,Born This Way (Special Edition),72,https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA,,,,,
-100,"""Watermelon Moonshine""",Lainey Wilson,Watermelon Moonshine,Lainey Wilson,Bell Bottom Country,77,https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8,,,,,
+Position on chart,Title,Billboard Artist,Track name,Spotify Artist,Album,Popularity ranking #,Spotify URL
+1,"""Last Night""",Morgan Wallen,Last Night,Morgan Wallen,One Thing At A Time,83,https://open.spotify.com/track/7K3BhSpAxZBznislvUMVtn
+2,"""Flowers""",Miley Cyrus,Flowers,Miley Cyrus,Endless Summer Vacation,89,https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0
+3,"""Kill Bill""",SZA,Kill Bill,SZA,SOS,85,https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL
+4,"""Anti-Hero""",Taylor Swift,Anti-Hero,Taylor Swift,Midnights,84,https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu
+5,"""Creepin'""","Metro Boomin, the Weeknd and 21 Savage",Creepin' (with The Weeknd & 21 Savage),Metro Boomin,HEROES & VILLAINS,84,https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO
+6,"""Calm Down""",Rema and Selena Gomez,Calm Down (with Selena Gomez),Rema,Calm Down (with Selena Gomez),83,https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8
+7,"""Die for You""",The Weeknd and Ariana Grande,Die For You,The Weeknd,Starboy,87,https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3
+8,"""Fast Car""",Luke Combs,Fast Car,Luke Combs,Gettin' Old,85,https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT
+9,"""Snooze""",SZA,Snooze,SZA,SOS,90,https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2
+10,"""I'm Good (Blue)""",David Guetta and Bebe Rexha,I'm Good (Blue),David Guetta,I'm Good (Blue),88,https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK
+11,"""Unholy""",Sam Smith and Kim Petras,Unholy (feat. Kim Petras),Sam Smith,Unholy (feat. Kim Petras),80,https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG
+12,"""You Proof""",Morgan Wallen,You Proof,Morgan Wallen,One Thing At A Time,81,https://open.spotify.com/track/5W4kiM2cUYBJXKRudNyxjW
+13,"""Something in the Orange""",Zach Bryan,Something in the Orange,Zach Bryan,Something in the Orange,87,https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI
+14,"""Rich Flex""",Drake and 21 Savage,Rich Flex,Drake,Her Loss,78,https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N
+15,"""As It Was""",Harry Styles,As It Was,Harry Styles,Harry's House,90,https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e
+16,"""Rock and a Hard Place""",Bailey Zimmerman,Rock and A Hard Place,Bailey Zimmerman,Religiously. The Album.,84,https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx
+17,"""Under the Influence""",Chris Brown,Under The Influence,Chris Brown,Indigo (Extended),85,https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb
+18,"""Cruel Summer""",Taylor Swift,Cruel Summer,Taylor Swift,Lover,91,https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr
+19,"""Thinkin' Bout Me""",Morgan Wallen,Thinkin’ Bout Me,Morgan Wallen,One Thing At A Time,83,https://open.spotify.com/track/0PAcdVzhPO4gq1Iym9ESnK
+20,"""Boy's a Liar Pt. 2""",PinkPantheress and Ice Spice,Boy's a liar Pt. 2,PinkPantheress,Boy's a liar Pt. 2,75,https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv
+21,"""Favorite Song""",Toosii,Favorite Song,Toosii,NAUJOUR,69,https://open.spotify.com/track/5Bvhk3wx42kkDEggSQIwqL
+22,"""Thought You Should Know""",Morgan Wallen,Thought You Should Know,Morgan Wallen,One Thing At A Time,79,https://open.spotify.com/track/3Qu3Zh4WTKhP9GEXo0aDnb
+23,"""Thank God""",Kane Brown and Katelyn Brown,Thank God,Kane Brown,Different Man,72,https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8
+24,"""Sure Thing""",Miguel,Sure Thing,Miguel,All I Want Is You,87,https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV
+25,"""All My Life""",Lil Durk featuring J. Cole,All My Life,Foo Fighters,One By One (Expanded Edition),75,https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6
+26,"""Ella Baila Sola""",Eslabon Armado and Peso Pluma,Ella Baila Sola,Eslabon Armado,Ella Baila Sola,79,https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb
+27,"""Karma""",Taylor Swift featuring Ice Spice,"""Karma""",Frank Fileccia,"""Is Everyone Going To Hell?""",0,https://open.spotify.com/track/1BfLmVSpeZyjK4mCm7gVsv
+28,"""Just Wanna Rock""",Lil Uzi Vert,Just Wanna Rock,Lil Uzi Vert,Just Wanna Rock,74,https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d
+29,"""Cuff It""",Beyoncé,CUFF IT,Beyoncé,RENAISSANCE,79,https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS
+30,"""Vampire""",Olivia Rodrigo,vampire,Olivia Rodrigo,GUTS,87,https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS
+31,"""FukUMean""",Gunna,fukumean,Gunna,a Gift & a Curse,83,https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS
+32,"""Lavender Haze""",Taylor Swift,Lavender Haze,Taylor Swift,Midnights,76,https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC
+33,"""Players""",Coi Leray,Players,Coi Leray,Players,72,https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij
+34,"""Need a Favor""",Jelly Roll,Need A Favor,Jelly Roll,Whitsitt Chapel,79,https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy
+35,"""Dance the Night""",Dua Lipa,Dance The Night - From Barbie The Album,Dua Lipa,Dance The Night (From Barbie The Album),84,https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA
+36,"""Love You Anyway""",Luke Combs,Love You Anyway,Luke Combs,Gettin' Old,74,https://open.spotify.com/track/2kYevr8cbIAH2ha8210Bnz
+37,"""One Thing at a Time""",Morgan Wallen,One Thing At A Time,Morgan Wallen,One Thing At A Time,72,https://open.spotify.com/track/1rXq0uoV4KTgRN64jXzIxo
+38,"""Superhero (Heroes & Villains)""","Metro Boomin, Future and Chris Brown",Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,HEROES & VILLAINS,82,https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j
+39,"""Bad Habit""",Steve Lacy,Bad Habit,Steve Lacy,Gemini Rights,86,https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy
+40,"""La Bebé""",Yng Lvcas and Peso Pluma,La Bebe - Remix,Yng Lvcas,La Bebe (Remix),81,https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU
+41,"""Golden Hour""",Jvke,golden hour,JVKE,this is what ____ feels like (Vol. 1-4),80,https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg
+42,"""Religiously""",Bailey Zimmerman,Religiously,Bailey Zimmerman,Religiously. The Album.,80,https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R
+43,"""Spin Bout U""",Drake and 21 Savage,Spin Bout U,Drake,Her Loss,78,https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC
+44,"""Cupid""",Fifty Fifty,Cupid's Chokehold / Breakfast in America,Gym Class Heroes,The Papercut Chronicles,80,https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK
+45,"""Search & Rescue""",Drake,Search & Rescue,Drake,Search & Rescue,75,https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G
+46,"""Barbie World""",Nicki Minaj and Ice Spice with Aqua,Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj,Barbie World (with Aqua) [From Barbie The Album],73,https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO
+47,"""Next Thing You Know""",Jordan Davis,Next Thing You Know,Jordan Davis,Bluebird Days,77,https://open.spotify.com/track/39OclE5hZematADrdfaWvE
+48,"""Escapism""",Raye featuring 070 Shake,Escapism.,RAYE,My 21st Century Blues,82,https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp
+49,"""Un x100to""",Grupo Frontera and Bad Bunny,un x100to,Grupo Frontera,El Comienzo,79,https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD
+50,"""Until I Found You""",Stephen Sanchez,Until I Found You,Stephen Sanchez,Until I Found You,81,https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV
+51,"""Shirt""",SZA,Shirt,SZA,SOS,74,https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4
+52,"""Paint the Town Red""",Doja Cat,Paint The Town Red,Doja Cat,Paint The Town Red,81,https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7
+53,"""Made You Look""",Meghan Trainor,Made You Look,Meghan Trainor,Takin' It Back,80,https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u
+54,"""Wait in the Truck""",Hardy featuring Lainey Wilson,wait in the truck,HARDY,the mockingbird & THE CROW,73,https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI
+55,"""All I Want for Christmas Is You""",Mariah Carey,All I Want for Christmas Is You,Mariah Carey,Merry Christmas,70,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+56,"""Everything I Love""",Morgan Wallen,Everything I Love,Morgan Wallen,One Thing At A Time,72,https://open.spotify.com/track/03fs6oV5JAlbytRYf3371S
+57,"""Chemical""",Post Malone,Chemical,Post Malone,Chemical,78,https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu
+58,"""Heart Like a Truck""",Lainey Wilson,Heart Like A Truck,Lainey Wilson,Bell Bottom Country,78,https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO
+59,"""Going, Going, Gone""",Luke Combs,"Going, Going, Gone",Luke Combs,Growin' Up,77,https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs
+60,"""Rockin' Around the Christmas Tree""",Brenda Lee,Rockin' Around The Christmas Tree,Brenda Lee,Merry Christmas From Brenda Lee,63,https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97
+61,"""Dancin' in the Country""",Tyler Hubbard,Dancin’ In The Country,Tyler Hubbard,Tyler Hubbard,73,https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34
+62,"""Daylight""",David Kushner,Daylight,David Kushner,The Dichotomy,86,https://open.spotify.com/track/5OGZ2Mx4Cs6RCndDRycGBJ
+63,"""Lift Me Up""",Rihanna,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Rihanna,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),72,https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg
+64,"""Eyes Closed""",Ed Sheeran,Eyes Closed,Ed Sheeran,- (Deluxe),76,https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg
+65,"""TQG""",Karol G and Shakira,TQG,KAROL G,MAÑANA SERÁ BONITO,84,https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf
+66,"""Try That in a Small Town""",Jason Aldean,Try That In A Small Town,Jason Aldean,Highway Desperado,69,https://open.spotify.com/track/5BqI4ugJL5WaPRQ6MlC8Ho
+67,"""Tennessee Orange""",Megan Moroney,Tennessee Orange,Megan Moroney,Lucky,81,https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ
+68,"""Jingle Bell Rock""",Bobby Helms,Jingle Bell Rock,Bobby Helms,Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol),62,https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya
+69,"""Princess Diana""",Ice Spice and Nicki Minaj,Princess Diana (with Nicki Minaj),Ice Spice,Princess Diana (with Nicki Minaj),70,https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV
+70,"""Tomorrow 2""",GloRilla and Cardi B,Tomorrow 2 (with Cardi B),GloRilla,"Anyways, Life’s Great…",74,https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1
+71,"""A Holly Jolly Christmas""",Burl Ives,A Holly Jolly Christmas,Burl Ives,Have A Holly Jolly Christmas,46,https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh
+72,"""Where She Goes""",Bad Bunny,WHERE SHE GOES,Bad Bunny,WHERE SHE GOES,79,https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1
+73,"""Bebe Dame""",Fuerza Regida and Grupo Frontera,Bebe Dame,Fuerza Regida,Bebe Dame,74,https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV
+74,"""I Remember Everything""",Zach Bryan featuring Kacey Musgraves,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,Zach Bryan,88,https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG
+75,"""I Like You (A Happier Song)""",Post Malone featuring Doja Cat,I Like You (A Happier Song) (with Doja Cat),Post Malone,Twelve Carat Toothache,79,https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj
+76,"""What It Is (Block Boy)""",Doechii featuring Kodak Black,What It Is (Block Boy) (with Kodak Black),Doechii,What It Is (Block Boy) (with Kodak Black),69,https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE
+77,"""Nobody Gets Me""",SZA,Nobody Gets Me,SZA,SOS,86,https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm
+78,"""Rich Men North of Richmond""",Oliver Anthony Music,Rich Men North of Richmond,Oliver Anthony Music,Rich Men North of Richmond,76,https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP
+79,"""Super Freaky Girl""",Nicki Minaj,Super Freaky Girl,Nicki Minaj,Super Freaky Girl,71,https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp
+80,"""Dial Drunk""",Noah Kahan and Post Malone,Dial Drunk (with Post Malone),Noah Kahan,Dial Drunk (with Post Malone),82,https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK
+81,"""What Was I Made For?""",Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,"What Was I Made For? [From The Motion Picture ""Barbie""]",88,https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q
+82,"""Seven""",Jungkook featuring Latto,Seven Nation Army,The White Stripes,Elephant,86,https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR
+83,"""Wait for U""",Future featuring Drake and Tems,WAIT FOR U (feat. Drake & Tems),Future,I NEVER LIKED YOU,85,https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK
+84,"""Last Christmas""",Wham!,Last Christmas,Wham!,LAST CHRISTMAS,72,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+85,"""Handle on You""",Parker McCollum,Handle On You,Parker McCollum,Never Enough,73,https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C
+86,"""Por Las Noches""",Peso Pluma,Por Las Noches,Peso Pluma,Por Las Noches,76,https://open.spotify.com/track/6YWME4xCa5Lm6X1exVMQIC
+87,"""Memory Lane""",Old Dominion,Memory Lane,Old Dominion,Memory Lane,74,https://open.spotify.com/track/1nrgBXtczBXNSlqIezjwbR
+88,"""Area Codes""",Kaliii,Area Codes,Kaliii,Area Codes,73,https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH
+89,"""Bury Me in Georgia""",Kane Brown,Bury Me in Georgia,Kane Brown,Different Man,62,https://open.spotify.com/track/4EKH0ajMHXTkq4ztWuztVH
+90,"""PRC""",Peso Pluma and Natanael Cano,PRC,Peso Pluma,PRC,73,https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl
+91,"""What My World Spins Around""",Jordan Davis,What My World Spins Around,Jordan Davis,Bluebird Days,75,https://open.spotify.com/track/6vjZxvzdAeHp7jv3R398Xm
+92,"""Ain't That Some""",Morgan Wallen,Ain’t That Some,Morgan Wallen,One Thing At A Time,79,https://open.spotify.com/track/2YVlDlk2zRceefo6XlC6DX
+93,"""Wild as Her""",Corey Kent,Wild as Her,Corey Kent,Blacktop,74,https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N
+94,"""Peaches & Eggplants""",Young Nudy featuring 21 Savage,Peaches & Eggplants (feat. 21 Savage),Young Nudy,Gumbo,68,https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN
+95,"""I Wrote the Book""",Morgan Wallen,I Wrote The Book,Morgan Wallen,One Thing At A Time,69,https://open.spotify.com/track/7phmBo7bB9I9YifAXqnlqV
+96,"""Bzrp Music Sessions, Vol. 53""",Bizarrap and Shakira,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",80,https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe
+97,"""Meltdown""",Travis Scott featuring Drake,MELTDOWN (feat. Drake),Travis Scott,UTOPIA,77,https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb
+98,"""Put It on da Floor Again""",Latto featuring Cardi B,Put It On Da Floor Again (feat. Cardi B),Latto,Put It On Da Floor Again (feat. Cardi B),62,https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa
+99,"""Bloody Mary""",Lady Gaga,Bloody Mary,Lady Gaga,Born This Way (Special Edition),72,https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA
+100,"""Watermelon Moonshine""",Lainey Wilson,Watermelon Moonshine,Lainey Wilson,Bell Bottom Country,77,https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8
