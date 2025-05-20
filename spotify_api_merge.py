@@ -155,14 +155,3 @@ print(df3.describe(include='all')) #Displaying summary statistics
 
 #Reloading the CSV to confirm final export worked
 df = pd.read_csv('Billboard_Spotify_Merged.csv')
-import sqlite3
-
-sqlconnect = sqlite3.connect('billboard_spotify.db')
-df3.to_sql('tracks', sqlconnect, if_exists='replace', index=False)
-
-cursor = sqlconnect.cursor()
-cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-print("Tables in database:", cursor.fetchall())
-
-preview = pd.read_sql_query("SELECT * FROM tracks LIMIT 5;", sqlconnect)
-print(preview)
