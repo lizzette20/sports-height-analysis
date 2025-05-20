@@ -55,7 +55,7 @@ women_volley_avg = women_volley['Height'].mean()
 print(f"The average height of the Men's Swimming & Diving team: {men_swim_avg:.2f} inches")
 print(f"The average height of the Women's Swimming & Diving team: {women_swim_avg:.2f} inches")
 print(f"The average height of the Men's Volleyball team: {men_volley_avg:.2f} inches")
-print(f"The average height of the Men's Volleyball team: {women_volley_avg:.2f} inches")
+print(f"The average height of the Women's Volleyball team: {women_volley_avg:.2f} inches")
 
 #Creating a DataFrame for average heights by team
 avg_data = {
