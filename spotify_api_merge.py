@@ -155,7 +155,6 @@ print(df3.describe(include='all')) #Displaying summary statistics
 
 #Reloading the CSV to confirm final export worked
 df = pd.read_csv('Billboard_Spotify_Merged.csv')
-<<<<<<< HEAD
 
 #Evaluating long-term relevance of 2023 Billboard tracks based on 2025 Spotify popularity
 
