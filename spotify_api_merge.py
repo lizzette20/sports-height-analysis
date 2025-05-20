@@ -128,7 +128,7 @@ for x in range(len(df1)):
         print(f'Error requesting song: {title}')
         spotify_data.append({
             'Track name': None,
-            'Artist': None, 
+            'Spotify Artist': None, 
             'Album': None,
             'Popularity ranking #': None,
             'Spotify URL': None,
@@ -155,3 +155,21 @@ print(df3.describe(include='all')) #Displaying summary statistics
 
 #Reloading the CSV to confirm final export worked
 df = pd.read_csv('Billboard_Spotify_Merged.csv')
+
+#Evaluating long-term relevance of 2023 Billboard tracks based on 2025 Spotify popularity
+
+#Creating a new column that captures the gap between Billboard ranks and current Spotify popularity
+df["Billboard score"] = 101 - df["Position on chart"]
+df["Popularity Gap"] = df["Popularity ranking #"] - df["Billboard score"]
+
+#Define overperformers as tracks that are much more popular now than their original chart position suggested
+overperformers = df[df["Popularity Gap"] > 15]
+
+#Define underperformers as tracks that have not maintained popularity over time
+underperformers = df[df["Popularity Gap"] < -15]
+
+#Printing summary of results
+print("Long-Term Relevance Summary:")
+print(f'Total songs analyzed: {len(df)}')
+print(f'Songs that gained popularity over time: {len(overperformers)}')
+print(f'Songs that declined in popularity: {len(underperformers)}')

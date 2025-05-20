@@ -18,7 +18,7 @@ def process_data(url):
   Position_on_chart=[]
   #list to store song titles
   Title=[]
-  #list to store heights
+  #list to store artist names
   Artist=[]
   page=requests.get(url)
 
@@ -38,11 +38,14 @@ def process_data(url):
         Title.append(column[1].text.strip())
         Artist.append(column[2].text.strip())
 
-    #creating a datafram from the data stored in the lists 
+    #creating a dataframe from the data stored in the lists 
     data={'Position on chart':Position_on_chart,'Title':Title,'Artist':Artist}
 
     #convert the data into a dataframe
     df1=pd.DataFrame(data)
+
+    #Ensures "Position on chart" is numeric for future calculations
+    df1["Position on chart"] = pd.to_numeric(df1["Position on chart"], errors="coerce")
 
     #save dataframe into a CSV file
     df1.to_csv('Billboard_Year-End_Hot_100_singles_of_2023.csv',index=False)
